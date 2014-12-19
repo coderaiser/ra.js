@@ -1,5 +1,5 @@
 {
-  "name": "ra.js",
+  "name": "ra",
   "version": "1.0.0",
   "description": "require + ajax with ES6 generators",
   "scripts": {
